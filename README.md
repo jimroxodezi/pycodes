@@ -5,53 +5,63 @@ From beginner to automation, devops and wizadry.
 <summary>Phase 1: Python Fundamentals</summary>
 
 + <details>
-    <summary>1. Basic Syntax and Semantics</summary>
+    <summary>Basic Syntax and Semantics</summary>
 
-        - [ ] Understanding the structure of Python code
-        - [x] Indentation and code blocks
-        - [ ] Comments and documentation strings
+    - [x] Understanding the structure of Python code
+    - [x] Indentation and code blocks
+    - [x] Comments and documentation strings
+    
+    </details>
+
++ <details>
+    <summary>Variables and Data Types</summary>
+
+    - [x] Numeric types: integers, floats, complex numbers
+    - [x] Boolean type
+    - [x] Strings and string operations
+    - [x] Type conversion and casting
 
     </details>
 
 + <details>
-    <summary>2. Variables and Data Types</summary>
-    - Numeric types: integers, floats, complex numbers
-    - Boolean type
-    - Strings and string operations
-    - Type conversion and casting
+    <summary>Operators and Expressions</summary>
+
+    - [x] Arithmetic operators
+    - [x] Comparison operators
+    - [x] Logical operators
+    - [x] Bitwise operators
+
     </details>
 
 + <details>
-    <summary>3. Operators and Expressions</summary>
-    - Arithmetic operators
-    - Comparison operators
-    - Logical operators
-    - Bitwise operators
+    <summary>Control Flow Statements</summary>
+
+    - [x] Conditional statements: `if`, `elif`, `else`
+    - [x] Loops: `for`, `while`
+    - [x] Loop control statements: `break`, `continue`, `pass`
+
     </details>
 
 + <details>
-    <summary>4. Control Flow Statements</summary>
-    - Conditional statements: `if`, `elif`, `else`
-    - Loops: `for`, `while`
-    - Loop control statements: `break`, `continue`, `pass`
+    <summary>Data Structures</summary>
+
+    - [x] Lists and list comprehensions
+    - [x] Tuples
+    - [x] Sets
+    - [x] Dictionaries and dictionary comprehensions
+
     </details>
 
 + <details>
-    <summary>5. Data Structures</summary>
-    - Lists and list comprehensions
-    - Tuples
-    - Sets
-    - Dictionaries and dictionary comprehensions
-    </details>
+    <summary>Functions</summary>
 
-+ <details>
-    <summary>6. Functions</summary>
-    - Defining and calling functions
-    - Parameters and arguments
-    - Default and keyword arguments
-    - Variable-length arguments (`*args`, `**kwargs`)
-    - Lambda functions
-    - Scope of variables
+    - [x] Defining and calling functions
+    - [x] Parameters and arguments
+    - [x] Default and keyword arguments
+    - [x] Variable-length arguments (`*args`, `**kwargs`)
+    - [x] Lambda functions
+    - [x] Scope of variables
+
     </details>
 
 </details>
@@ -59,32 +69,53 @@ From beginner to automation, devops and wizadry.
 <details>
 <summary>Phase 2: Object-Oriented Programming (OOP)</summary>
 
-1. Classes and Objects
++ <details>
+    <summary>Classes and Objects</summary>
+
    - Defining classes
    - Creating objects (instances)
    - Instance variables and methods
    - Class variables and methods
    - `self` parameter
 
-2. Inheritance
+   </details>
+
++ <details>
+    <summary>Inheritance </summary>
+
    - Single and multiple inheritance
    - Method overriding
    - Using `super()`
 
-3. Encapsulation
+   </details>
+
++ <details>
+    <summary>Encapsulation</summary>
+
    - Private and protected members
    - Getters and setters
    - Name mangling
 
-4. Polymorphism
+   </details>
+
++ <details>
+    <summary>Polymorphism </summary>
+
    - Method overloading (conceptual understanding)
    - Method overriding
    - Duck typing
 
-5. Abstraction
+   <details>
+
++ <details>
+    <summary> Abstraction </summary>
+
    - Abstract classes
    - Interfaces (using `abc` module)
 
+   </details>
+
+</details>
 
 Phase 3: Modules and Packages
 
