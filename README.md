@@ -210,41 +210,60 @@ From beginner to automation, devops and wizadry.
    </details>
 
 3. Debugging Techniques
-   - Using print statements effectively
-   - Debugging tools and IDE debuggers
-   - Understanding traceback
+   - [ ] Using print statements effectively
+   - [ ] Debugging tools and IDE debuggers
+   - [ ] Understanding traceback
 </details>
 
 <details>
 <summary>Phase 6: Advanced Topics</summary>
 
-1. Iterators and Generators
-   - Iterable objects
-   - Implementing `__iter__()` and `__next__()`
-   - Generator functions and `yield` statement
-   - Generator expressions
++ <details>
+    <summary>Iterators and Generators</summary>
 
-2. Decorators
-   - Function decorators
-   - Class decorators
-   - Chaining decorators
-   - Practical use cases
+   - [ ] Iterable objects
+   - [ ] Implementing `__iter__()` and `__next__()`
+   - [ ] Generator functions and `yield` statement
+   - [ ] Generator expressions
 
-3. Context Managers
-   - Understanding context management protocol (`__enter__`, `__exit__`)
-   - Using `with` statement
-   - Creating custom context managers
-   - `contextlib` module
+   </details>
 
-4. Metaclasses
-   - Understanding metaclasses and their use cases
-   - Customizing class creation
-   - `type` function and `__metaclass__` attribute
++ <details>
+    <summary>Decorators</summary>
 
-5. Descriptors
-   - Understanding descriptors and how they work
-   - Implementing `__get__`, `__set__`, `__delete__`
-   - Practical applications
+   - [ ] Function decorators
+   - [ ] Class decorators
+   - [ ] Chaining decorators
+   - [ ] Practical use cases
+
+   <details>
+
++ <details>
+    <summary>Context Managers</summary>
+   - [ ] Understanding context management protocol (`__enter__`, `__exit__`)
+   - [ ] Using `with` statement
+   - [ ] Creating custom context managers
+   - [ ] `contextlib` module
+
+    </details>
+
++ <details>
+    <summary>Metaclasses</summary>
+   - [ ] Understanding metaclasses and their use cases
+   - [ ] Customizing class creation
+   - [ ] `type` function and `__metaclass__` attribute
+
+   </details>
+
++ <details>
+    <summary>Descriptors</summary>
+
+   - [ ] Understanding descriptors and how they work
+   - [ ] Implementing `__get__`, `__set__`, `__delete__`
+   - [ ] Practical applications
+
+   </details>
+
 </details>
 
 <details>
@@ -293,200 +312,299 @@ From beginner to automation, devops and wizadry.
 <details>
 <summary>Phase 9: Data Science and Machine Learning with Python</summary>
 
-1. Scientific Computing Libraries
-   - NumPy for numerical computations
-   - Pandas for data manipulation and analysis
-   - Matplotlib and Seaborn for data visualization
++ <details>
+    <summary>Scientific Computing Libraries</summary>
 
-2. Machine Learning Libraries
-   - Scikit-Learn for traditional machine learning algorithms
-   - TensorFlow and PyTorch for deep learning
+   - [ ] NumPy for numerical computations
+   - [ ] Pandas for data manipulation and analysis
+   - [ ] Matplotlib and Seaborn for data visualization
 
-3. Data Handling and Processing
-   - Data cleaning and preprocessing
-   - Feature engineering
-   - Model evaluation and validation
+   </details>
+
++ <details>
+    <summary>Machine Learning Libraries</summary>
+
+   - [ ] Scikit-Learn for traditional machine learning algorithms
+   - [ ] TensorFlow and PyTorch for deep learning
+
+   </details>
+
++ <details>
+    <summary>Data Handling and Processing</summary>
+
+   - [ ] Data cleaning and preprocessing
+   - [ ] Feature engineering
+   - [ ] Model evaluation and validation
+
+   </details>
 </details>
 
 <details>
 <summary>Phase 10: Testing and Quality Assurance</summary>
 
-1. Unit Testing
-   - Writing test cases using `unittest`
-   - Test discovery and execution
++ <details>
+    <summary>Unit Testing</summary>
 
-2. PyTest Framework
-   - Writing simple and complex tests
-   - Fixtures and parametrization
-   - Assertions and expected failures
+   - [ ] Writing test cases using `unittest`
+   - [ ] Test discovery and execution
 
-3. Test-Driven Development (TDD)
-   - Writing tests before code
-   - Continuous integration concepts
+   </details>
 
-4. Code Coverage and Quality Tools
-   - Measuring code coverage
-   - Static code analysis
-   - Linting tools (e.g., Flake8, Pylint)
++ <details>
+    <summary>PyTest Framework</summary>
+
+   - [ ] Writing simple and complex tests
+   - [ ] Fixtures and parametrization
+   - [ ] Assertions and expected failures
+
+   </details>
+
++ <details>
+    <summary>Test-Driven Development (TDD)</summary>
+
+   - [ ] Writing tests before code
+   - [ ] Continuous integration concepts
+
+   </details>
+
++ <details>
+    <summary>Code Coverage and Quality Tools</summary>
+
+   - [ ] Measuring code coverage
+   - [ ] Static code analysis
+   - [ ] Linting tools (e.g., Flake8, Pylint)
+
+   </details>
+
 </details>
 
 <details>
 <summary>Phase 11: Packaging and Deployment</summary>
 
-1. Packaging Python Projects
-   - Structuring projects
-   - Writing `setup.py` and `setup.cfg`
-   - Using `pyproject.toml` and `setup.cfg` for configuration
++ <details>
+    <summary>Packaging Python Projects</summary>
 
-2. Distributing Packages
-   - Publishing to PyPI
-   - Versioning and dependency management
+   - [ ] Structuring projects
+   - [ ] Writing `setup.py` and `setup.cfg`
+   - [ ] Using `pyproject.toml` and `setup.cfg` for configuration
 
-3. Deployment
-   - Packaging applications for distribution
-   - Using Docker for containerization
-   - Continuous deployment strategies
+   </details>
+
++ <details>
+    <summary>Distributing Packages</summary>
+
+   - [ ]Publishing to PyPI
+   - [ ] Versioning and dependency management
+
+   </details>
+
++ <details>
+    <summary>Deployment</summary>
+
+   - [ ] Packaging applications for distribution
+   - [ ] Using Docker for containerization
+   - [ ] Continuous deployment strategies
+
+   </details>
 </details>
 
 <details>
 <summary>Phase 12: Security Practices</summary>
 
-1. Secure Coding
-   - Input validation
-   - Protecting against injection attacks
-   - Secure handling of sensitive data
++ <details>
+    <summary>Secure Coding</summary>
 
-2. Cryptography
-   - Hashing and encryption
-   - Using the `cryptography` library
-   - Secure communication protocols
+   - [ ] Input validation
+   - [ ] Protecting against injection attacks
+   - [ ] Secure handling of sensitive data
 
-3. Authentication and Authorization
-   - Implementing user authentication
-   - Managing user permissions
-   - OAuth and JWT tokens
+   </details>
+
++ <details>
+    <summary>Cryptography</summary>
+
+   - [ ] Hashing and encryption
+   - [ ] Using the `cryptography` library
+   - [ ] Secure communication protocols
+
+   </details>
+
++ <details>
+    <summary>Authentication and Authorization</summary>
+
+   - [ ] Implementing user authentication
+   - [ ] Managing user permissions
+   - [ ] OAuth and JWT tokens
+
+   </details>
 </details>
 
 <details>
 <summary>Phase 13: Performance Optimization</summary>
 
-1. Profiling and Benchmarking
-   - Identifying bottlenecks
-   - Using profiling tools (`cProfile`, `timeit`)
++ <details>
+    <summary>Profiling and Benchmarking</summary>
 
-2. Optimization Techniques
-   - Efficient algorithms and data structures
-   - Memory management
-   - Lazy evaluation
+   - [ ] Identifying bottlenecks
+   - [ ] Using profiling tools (`cProfile`, `timeit`)
 
-3. Using Alternative Python Implementations
-   - PyPy for performance
-   - Cython for compiling Python to C
-   - Numba for JIT compilation
+   </details>
+
++ <details>
+    <summary>Optimization Techniques</summary>
+
+   - [ ] Efficient algorithms and data structures
+   - [ ] Memory management
+   - [ ] Lazy evaluation
+
+   </details>
+
++ <details>
+    <summary>Using Alternative Python Implementations</summary>
+
+   - [ ] PyPy for performance
+   - [ ] Cython for compiling Python to C
+   - [ ] Numba for JIT compilation
+
+   </details>
 </details>
 
 <details>
 <summary>Phase 14: Interfacing with Other Languages</summary>
 
-1. C Extensions
-   - Writing Python extensions in C
-   - Using `ctypes` and `cffi` libraries
++ <details>
+    <summary>C Extensions</summary>
 
-2. Integrating with Java
-   - Using Jython
-   - Interoperability considerations
+   - [ ] Writing Python extensions in C
+   - [ ] Using `ctypes` and `cffi` libraries
 
-3. Interfacing with .NET
-   - IronPython basics
+   </details>
+
++ <details>
+    <sumnary>Integrating with Java</summary>
+
+   - [ ] Using Jython
+   - [ ] Interoperability considerations
+
+   </details>
+
++ <details>
+    <summary>Interfacing with .NET</summary>
+
+   - [ ] IronPython basics
+
+   </details>
 </details>
 
 <details>
 <summary>Phase 15: Collaboration and Community Involvement</summary>
 
-1. Version Control Systems
-   - Using Git for source control
-   - Understanding branching and merging strategies
++ <details>
+    <summary>Version Control Systems</summary>
 
-2. Collaborative Development
-   - Code reviews
-   - Pull requests and code merging
-   - Issue tracking
+   - [ ] Using Git for source control
+   - [ ] Understanding branching and merging strategies
 
-3. Contributing to Open Source
-   - Understanding open-source licensing
-   - Participating in community projects
-   - Following contribution guidelines
+   </details>
+
++ <details>
+    <summary>Collaborative Development</summary>
+
+   - [ ] Code reviews
+   - [ ] Pull requests and code merging
+   - [ ] Issue tracking
+
+   </details>
+
++ <details>
+    <summary>Contributing to Open Source</summary>
+
+   - [ ] Understanding open-source licensing
+   - [ ] Participating in community projects
+   - [ ] Following contribution guidelines
+
+   </details>
 </details>
 
 <details>
 <summary>Phase 16: Staying Current and Continuous Learning</summary>
 
-1. Keeping Up with Python Enhancements
-   - Reading Python Enhancement Proposals (PEPs)
-   - Understanding new language features
++ <details>
+    <summary>Keeping Up with Python Enhancements</summary>
 
-2. Engaging with the Python Community
-   - Attending conferences and meetups
-   - Participating in forums and discussion groups
+   - [ ] Reading Python Enhancement Proposals (PEPs)
+   - [ ] Understanding new language features
 
-3. Exploring Advanced Topics
-   - Type hinting and static type checking (using `mypy`)
-   - Functional programming concepts
-   - Exploring lesser-known standard library modules
+   </details>
+
++ <details>
+    <summary>Engaging with the Python Community</summary>
+
+   - [ ] Attending conferences and meetups
+   - [ ] Participating in forums and discussion groups
+
+   </details>
+
++ <details>
+    <summary>Exploring Advanced Topics</summary>
+
+   - [ ] Type hinting and static type checking (using `mypy`)
+   - [ ] Functional programming concepts
+   - [ ] Exploring lesser-known standard library modules
+
+   </details>
 </details>
 
-### **Phase 17: Specialized Domains**
 
-1. Web Development
-   - Advanced usage of web frameworks
-   - WebSockets and real-time communication
-   - Asynchronous web applications
+<details>
+<summary>Phase 18: Ethical and Legal Considerations</summary>
 
-2. Automation and Scripting
-   - Automating system tasks
-   - Writing command-line interfaces
-   - Scripting for DevOps
++ <details>
+    <summary>Ethical Programming</summary>
 
-3. Data Engineering
-   - Handling big data
-   - Working with databases (SQL and NoSQL)
-   - Data pipelines and ETL processes
+   - [ ] Understanding the impact of software
+   - [ ] Data privacy considerations
+   - [ ] Bias and fairness in algorithms
 
-4. Artificial Intelligence and Machine Learning
-   - Deep learning architectures
-   - Natural Language Processing (NLP)
-   - Computer Vision techniques
+    </details>
 
-5. Embedded Python
-   - MicroPython and CircuitPython
-   - Programming microcontrollers
++ <details>
+    <summary>Legal Aspects</summary>
 
+   - [ ] Software licensing
+   - [ ] Compliance with regulations (e.g., GDPR)
 
+   </details>
+</details>
 
-### **Phase 18: Ethical and Legal Considerations**
+<details>
+<summary>Phase 19: Soft Skills Development</summary>
 
-1. Ethical Programming
-   - Understanding the impact of software
-   - Data privacy considerations
-   - Bias and fairness in algorithms
++ <details>
+    <summary>Problem-Solving Skills</summary>
 
-2. Legal Aspects
-   - Software licensing
-   - Compliance with regulations (e.g., GDPR)
+   - [ ] Analytical thinking
+   - [ ] Algorithmic approach
 
-### **Phase 19: Soft Skills Development**
+   </details>
 
-1. Problem-Solving Skills
-   - Analytical thinking
-   - Algorithmic approach
++ <details>
+    <summary>Communication Skills</summary>
 
-2. Communication Skills
-   - Technical writing
-   - Presenting complex ideas clearly
+   - [ ] Technical writing
+   - [ ] Presenting complex ideas clearly
 
-3. Leadership and Mentoring
-   - Leading projects and teams
-   - Mentoring junior developers
+   </details>
+
++ <details>
+    <summary>Leadership and Mentoring</summary>
+
+   - [ ] Leading projects and teams
+   - [ ] Mentoring junior developers
+
+   </details>
+</details>
+
 
 ## Devops
 
@@ -526,149 +644,177 @@ From beginner to automation, devops and wizadry.
 
 </details>
 
-### **Phase 2: Scripting and Automation**
 
-**1. Master Scripting Languages**
+<details>
+<summary>Phase 2: Scripting and Automation</summary>
 
-- **Shell Scripting (Bash)**
-  - Automate routine tasks.
-  - Write scripts for system administration.
++ <details>
+    <summary>Master Scripting Languages</summary>
 
-- **Python for Automation**
-  - Write scripts to automate complex tasks.
-  - Use libraries like `os`, `subprocess`, `shutil`.
+    - [ ] Shell Scripting (Bash)
+    - [ ] Automate routine tasks.
+    - [ ] Write scripts for system administration.
+    - [ ] Python for Automation
+    - [ ] Write scripts to automate complex tasks.
+    - [ ] Use libraries like `os`, `subprocess`, `shutil`.
 
-**2. Configuration Management Basics**
+    </details>
 
-- **Introduction to Infrastructure as Code (IaC)**
-  - Understand the principles of IaC.
-  - Familiarize with JSON and YAML formats.
++ <details>
+    <summary>Configuration Management Basics</summary>
 
-- **Tools to Explore**
-  - **Ansible**: Agentless automation tool.
-  - **Puppet** and **Chef**: Configuration management tools.
+    - [ ] Introduction to Infrastructure as Code (IaC)
+    - [ ] Understand the principles of IaC.
+    - [ ] Familiarize with JSON and YAML formats.
+    - [ ] Ansible: Agentless automation tool.
+    - [ ] Puppet and Chef: Configuration management tools.
 
+    </details>
+</details>
 
-### **Phase 3: Continuous Integration/Continuous Deployment (CI/CD)**
+<details>
+<summary>Phase 3: Continuous Integration/Continuous Deployment (CI/CD)</summary>
 
-**1. Principles of CI/CD**
++ <details>
+    <summary>Principles of CI/CD</summary>
 
-- **Continuous Integration**
-  - Automate code integration.
-  - Run automated tests.
-- **Continuous Deployment**
-  - Automate the release process.
-  - Deploy to production with minimal human intervention.
+    - [ ] Continuous Integration
+    - [ ] Automate code integration.
+    - [ ] Run automated tests.
+    - [ ] Continuous Deployment
+    - [ ] Automate the release process.
+    - [ ] Deploy to production with minimal human intervention.
 
-**2. CI/CD Tools**
+    </details>
 
-- **Jenkins**
-  - Install and configure Jenkins.
-  - Create pipelines using Jenkinsfile.
-- **GitLab CI/CD**
-  - Utilize GitLab runners.
-  - Define `.gitlab-ci.yml` for pipeline configuration.
-- **Other Tools to Consider**
-  - **Travis CI**
-  - **CircleCI**
-  - **Azure DevOps Pipelines**
++ <details>
+    <summary>CI/CD Tools</summary>
 
-**3. Build Tools and Artifact Management**
+    - Jenkins
+    - Install and configure Jenkins.
+    - Create pipelines using Jenkinsfile.
+    - GitLab CI/CD
+    - Utilize GitLab runners.
+    - Define `.gitlab-ci.yml` for pipeline configuration.
+    - Travis CI
+    - CircleCI
+    - Azure DevOps Pipelines
 
-- **Build Tools**
-  - **Maven** and **Gradle** for Java projects.
-  - **npm** and **yarn** for Node.js projects.
-- **Artifact Repositories**
-  - **Nexus Repository**
-  - **JFrog Artifactory**
+    </details>
 
++ </details>
+    <summary>Build Tools and Artifact Management</summary>
 
-### **Phase 4: Containerization with Docker**
+    - Maven and Gradle for Java projects.
+    - npm and yarn for Node.js projects.
+    - Artifact Repositories
+    - Nexus Repository
+    - JFrog Artifactory
 
-**1. Docker Fundamentals**
+    </details>
+</details>
 
-- **Understanding Containers**
-  - Differences between VMs and containers.
-  - Benefits of containerization.
+<details>
+<summary>Phase 4: Containerization with Docker</summary>
 
-- **Docker Basics**
-  - Install Docker Engine.
-  - Understand Docker architecture (images, containers, registries).
++ <details>
+    <summary>Docker Fundamentals</summary>
 
-**2. Working with Docker**
+    - [x] Understanding Containers
+    - [x] Differences between VMs and containers.
+    - [x] Benefits of containerization.
+    - [x] Docker Basics
+    - [x] Install Docker Engine.
+    - [x] Understand Docker architecture (images, containers, registries).
 
-- **Docker Images and Containers**
-  - Pulling images from Docker Hub.
-  - Building custom images using `Dockerfile`.
-  - Managing containers (`run`, `stop`, `rm`).
+    </details>
 
-- Docker Compose
-  - Define multi-container applications.
-  - Use `docker-compose.yml` to orchestrate containers.
++ <details>
+    <summary>Working with Docker</summary>
 
-3. Advanced Docker Concepts
+    - Docker Images and Containers
+    - Pulling images from Docker Hub.
+    - Building custom images using `Dockerfile`.
+    - Managing containers (`run`, `stop`, `rm`).
+    - Docker Compose
+    - Define multi-container applications.
+    - Use `docker-compose.yml` to orchestrate containers.
 
-- Networking and Volumes
-  - Container networking (bridge, host, overlay).
-  - Data persistence with volumes and bind mounts.
+    </details>
 
-- Docker Registry
-  - Set up a private Docker registry.
-  - Push and pull images to/from the registry.
++ <details>
+    <summary>Advanced Docker Concepts</summary>
 
+    - Networking and Volumes
+    - Container networking (bridge, host, overlay).
+    - Data persistence with volumes and bind mounts.
+    - Docker Registry
+    - Set up a private Docker registry.
+    - Push and pull images to/from the registry.
 
-### **Phase 5: Orchestration with Kubernetes**
+    </details>
+</details>
 
-**1. Kubernetes Fundamentals**
+<details>
+<summary>Phase 5: Orchestration with Kubernetes</summary>
 
-- **Core Concepts**
-  - **Clusters**: Master and worker nodes.
-  - **Pods**: Basic unit of deployment.
-  - **Services**: Networking abstraction.
-  - **Deployments**: Manage stateless applications.
-  - **ReplicaSets**: Ensure specified number of pod replicas.
++ <details>
+    <summary>Kubernetes Fundamentals</summary>
 
-**2. Kubernetes Architecture**
+    - [ ] Clusters: Master and worker nodes.
+    - [ ] Pods: Basic unit of deployment.
+    - [ ] Services: Networking abstraction.
+    - [ ] Deployments: Manage stateless applications.
+    - [ ] ReplicaSets: Ensure specified number of pod replicas.
 
-- **Components**
-  - **API Server**
-  - **Etcd**: Key-value store.
-  - **Controller Manager**
-  - **Scheduler**
-  - **Kubelet**: Node agent.
-  - **Kube-proxy**
+    </details>
 
-**3. Hands-On with Kubernetes**
++ <details>
+    <summary>Kubernetes Architecture</summary>
 
-- **Setting Up a Cluster**
-  - Use **Minikube** or **Kind** for local clusters.
-  - Explore managed services like **Google Kubernetes Engine (GKE)**, **Amazon EKS**, **Azure AKS**.
+    - [ ] API Server
+    - [ ] Etcd: Key-value store.
+    - [ ] Controller Manager
+    - [ ] Scheduler
+    - [ ] Kubelet: Node agent.
+    - [ ] Kube-proxy
 
-- **Managing Applications**
-  - Deploy applications using `kubectl`.
-  - Update and roll back deployments.
-  - Scale applications horizontally.
+    </details>
 
-**4. Advanced Kubernetes Concepts**
++ <details>
+    <summary>Hands-On with Kubernetes</summary>
 
-- **ConfigMaps and Secrets**
-  - Manage configuration data.
-  - Store sensitive information securely.
+    - [ ] Setting Up a Cluster
+    - [ ] Use Minikube or Kind for local clusters.
+    - [ ] Explore managed services like Google Kubernetes Engine (GKE), Amazon EKS, Azure AKS.
+    - [ ] Managing Applications**
+    - [ ] Deploy applications using `kubectl`.
+    - [ ] Update and roll back deployments.
+    - [ ] Scale applications horizontally.
 
-- **Ingress Controllers**
-  - Configure external access to services.
-  - Use **Ingress** resources and controllers (NGINX, Traefik).
+    </details>
 
-- **Stateful Applications**
-  - Deploy stateful applications using **StatefulSets**.
-  - Persistent Volumes and Persistent Volume Claims.
++ <details>
+    <summary>Advanced Kubernetes Concepts</summary>
 
-- **Operators and CRDs**
-  - Extend Kubernetes functionality.
-  - Custom Resource Definitions.
+    - [ ] ConfigMaps and Secrets
+    - [ ] Manage configuration data.
+    - [ ] Store sensitive information securely.
+    - [ ] Ingress Controllers
+    - [ ] Configure external access to services.
+    - [ ] Use Ingress resources and controllers (NGINX, Traefik).
+    - [ ] Deploy stateful applications using **StatefulSets**.
+    - [ ] Persistent Volumes and Persistent Volume Claims.
+    - [ ] Extend Kubernetes functionality.
+    - [ ] Custom Resource Definitions.
 
+    </details>
 
-### **Phase 6: Infrastructure as Code (IaC) and Configuration Management**
+</details>
+
+<details>
+<summary>Phase 6: Infrastructure as Code (IaC) and Configuration Management</summary>
+
 
 **1. Infrastructure Provisioning**
 
@@ -691,8 +837,10 @@ From beginner to automation, devops and wizadry.
   - Understand declarative configuration.
   - Use cookbooks (Chef) and manifests (Puppet).
 
+</details>
 
-### **Phase 7: Cloud Platforms and Services**
+<details>
+<summary>Phase 7: Cloud Platforms and Services</summary>
 
 **1. Major Cloud Providers**
 
@@ -724,8 +872,11 @@ From beginner to automation, devops and wizadry.
   - Right-sizing resources.
   - Reserved instances and spot instances.
 
+</details>
 
-### **Phase 8: Monitoring, Logging, and Alerting**
+
+<details>
+<summary>Phase 8: Monitoring, Logging, and Alerting</summary>
 
 **1. Monitoring Tools**
 
@@ -761,8 +912,10 @@ From beginner to automation, devops and wizadry.
   - Develop runbooks.
   - Post-incident reviews and blameless retrospectives.
 
+</details>
 
-### **Phase 9: Security and Compliance**
+<details>
+<summary>Phase 9: Security and Compliance</summary>
 
 **1. Security Best Practices**
 
@@ -792,9 +945,11 @@ From beginner to automation, devops and wizadry.
 - **Auditing Tools**
   - Track changes and access.
   - Use CloudTrail (AWS), Audit Logs (GCP), Azure Activity Logs.
+</details>
 
 
-### **Phase 10: Advanced Topics**
+<details>
+<summary>Phase 10: Advanced Topics</summary>
 
 **1. Site Reliability Engineering (SRE)**
 
@@ -824,6 +979,7 @@ From beginner to automation, devops and wizadry.
 
 - Nomad
   - Deploy and manage containers and non-containerized applications.
+</details>
 
 <details>
 <summary>Phase 11: Soft Skills and Best Practices</summary>
