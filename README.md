@@ -20,11 +20,13 @@ From beginner to automation, devops and wizadry.
     - Type conversion and casting
     </details>
 
+    <details>
     3. Operators and Expressions
     - Arithmetic operators
     - Comparison operators
     - Logical operators
     - Bitwise operators
+    </details>
 
     4. Control Flow Statements
     - Conditional statements: `if`, `elif`, `else`
@@ -44,7 +46,7 @@ From beginner to automation, devops and wizadry.
     - Variable-length arguments (`*args`, `**kwargs`)
     - Lambda functions
     - Scope of variables
-    </details>
+</details>
 
 Phase 2: Object-Oriented Programming (OOP)
 
