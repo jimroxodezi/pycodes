@@ -4,15 +4,15 @@ From beginner to automation, devops and wizadry.
 <details open>
 <summary>Phase 1: Python Fundamentals</summary>
 
-    <details>
++ <details>
     <summary>1. Basic Syntax and Semantics</summary>
 
     - [x] Understanding the structure of Python code
     - Indentation and code blocks
     - Comments and documentation strings
-    </details>
+</details>
 
-    <details>
++ <details>
     <summary>2. Variables and Data Types</summary>
     - Numeric types: integers, floats, complex numbers
     - Boolean type
@@ -20,7 +20,7 @@ From beginner to automation, devops and wizadry.
     - Type conversion and casting
     </details>
 
-    <details>
++ <details>
     <summary>3. Operators and Expressions</summary>
     - Arithmetic operators
     - Comparison operators
@@ -28,18 +28,22 @@ From beginner to automation, devops and wizadry.
     - Bitwise operators
     </details>
 
++ <details>
     <summary>4. Control Flow Statements</summary>
     - Conditional statements: `if`, `elif`, `else`
     - Loops: `for`, `while`
     - Loop control statements: `break`, `continue`, `pass`
+</details>
 
-    5. Data Structures
++ <details>
+    <summary>5. Data Structures</summary>
     - Lists and list comprehensions
     - Tuples
     - Sets
     - Dictionaries and dictionary comprehensions
+</details>
 
-    <details>
++ <details>
     <summary>6. Functions</summary>
     - Defining and calling functions
     - Parameters and arguments
@@ -47,7 +51,7 @@ From beginner to automation, devops and wizadry.
     - Variable-length arguments (`*args`, `**kwargs`)
     - Lambda functions
     - Scope of variables
-    </details>
+</details>
 
 </details>
 
