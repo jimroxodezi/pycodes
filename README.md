@@ -5,44 +5,46 @@ From beginner to automation, devops and wizadry.
     <summary>Phase 1: Python Fundamentals</summary>
 
     <details>
-        <summary>1. Basic Syntax and Semantics</summary>
+    <summary>1. Basic Syntax and Semantics</summary>
 
     - [x] Understanding the structure of Python code
     - Indentation and code blocks
     - Comments and documentation strings
     </details>
 
-2. Variables and Data Types
-   - Numeric types: integers, floats, complex numbers
-   - Boolean type
-   - Strings and string operations
-   - Type conversion and casting
+    <details>
+    2. Variables and Data Types
+    - Numeric types: integers, floats, complex numbers
+    - Boolean type
+    - Strings and string operations
+    - Type conversion and casting
+    </details>
 
-3. Operators and Expressions
-   - Arithmetic operators
-   - Comparison operators
-   - Logical operators
-   - Bitwise operators
+    3. Operators and Expressions
+    - Arithmetic operators
+    - Comparison operators
+    - Logical operators
+    - Bitwise operators
 
-4. Control Flow Statements
-   - Conditional statements: `if`, `elif`, `else`
-   - Loops: `for`, `while`
-   - Loop control statements: `break`, `continue`, `pass`
+    4. Control Flow Statements
+    - Conditional statements: `if`, `elif`, `else`
+    - Loops: `for`, `while`
+    - Loop control statements: `break`, `continue`, `pass`
 
-5. Data Structures
-   - Lists and list comprehensions
-   - Tuples
-   - Sets
-   - Dictionaries and dictionary comprehensions
+    5. Data Structures
+    - Lists and list comprehensions
+    - Tuples
+    - Sets
+    - Dictionaries and dictionary comprehensions
 
-6. Functions
-   - Defining and calling functions
-   - Parameters and arguments
-   - Default and keyword arguments
-   - Variable-length arguments (`*args`, `**kwargs`)
-   - Lambda functions
-   - Scope of variables
-</details>
+    6. Functions
+    - Defining and calling functions
+    - Parameters and arguments
+    - Default and keyword arguments
+    - Variable-length arguments (`*args`, `**kwargs`)
+    - Lambda functions
+    - Scope of variables
+    </details>
 
 Phase 2: Object-Oriented Programming (OOP)
 
