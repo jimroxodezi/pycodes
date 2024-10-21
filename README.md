@@ -72,72 +72,90 @@ From beginner to automation, devops and wizadry.
 + <details>
     <summary>Classes and Objects</summary>
 
-   - Defining classes
-   - Creating objects (instances)
-   - Instance variables and methods
-   - Class variables and methods
-   - `self` parameter
+   - [x] Defining classes
+   - [x] Creating objects (instances)
+   - [x] Instance variables and methods
+   - [x] Class variables and methods
+   - [x] `self` parameter
 
    </details>
 
 + <details>
     <summary>Inheritance </summary>
 
-   - Single and multiple inheritance
-   - Method overriding
-   - Using `super()`
+   - [x] Single and multiple inheritance
+   - [x] Method overriding
+   - [x] Using `super()`
 
    </details>
 
 + <details>
     <summary>Encapsulation</summary>
 
-   - Private and protected members
-   - Getters and setters
-   - Name mangling
+   - [x] Private and protected members
+   - [x] Getters and setters
+   - [x] Name mangling
 
    </details>
 
 + <details>
     <summary>Polymorphism </summary>
 
-   - Method overloading (conceptual understanding)
-   - Method overriding
-   - Duck typing
+   - [ ] Method overloading (conceptual understanding)
+   - [ ] Method overriding
+   - [ ] Duck typing
 
    <details>
 
 + <details>
     <summary> Abstraction </summary>
 
-   - Abstract classes
-   - Interfaces (using `abc` module)
+   - [ ] Abstract classes
+   - [ ] Interfaces (using `abc` module)
 
    </details>
 
 </details>
 
-Phase 3: Modules and Packages
+<details>
+<summary>Phase 3: Modules and Packages</summary>
++ <details>
+    <summary>Modules</summary>
 
-1. Modules
-   - Importing modules
-   - Creating and using custom modules
-   - `__name__` and `__main__` usage
+   - [ ] Importing modules
+   - [ ] Creating and using custom modules
+   - [ ] `__name__` and `__main__` usage
 
-2. Packages
-   - Directory structure for packages
-   - `__init__.py` file
-   - Importing from packages
+   </details>
 
-3. Standard Library
-   - Familiarity with key modules like `os`, `sys`, `math`, `datetime`, `random`, `re` (regular expressions), `json`, `csv`, `logging`
++ <details>
+    <summary>Packages</summary>
 
-4. Third-Party Packages
-   - Installing packages using `pip`
-   - Virtual environments (`venv`, `virtualenv`)
+   - [ ] Directory structure for packages
+   - [ ] `__init__.py` file
+   - [ ] Importing from packages
 
+   </details>
 
-Phase 4: File Handling and I/O Operations
++ <details>
+    <summary>Standard Library</summary>
+
+   - [ ] Familiarity with key modules like `os`, `sys`, `math`, `datetime`, `random`, `re`, `json`, `csv`, `logging`
+
+   </details>
+
++ <details>
+    <summary> Third-Party Packages </summary>
+
+   - [ ] Installing packages using `pip`
+   - [ ] Virtual environments (`venv`, `virtualenv`)
+
+   </summary>
+
+</details>
+
+<details>
+<summary>Phase 4: File Handling and I/O Operations</summary>
 
 1. File Operations
    - Opening and closing files
@@ -155,8 +173,10 @@ Phase 4: File Handling and I/O Operations
    - Using `try`, `except`, `finally` blocks
    - Handling specific exceptions (`IOError`, `FileNotFoundError`)
 
+</details>
 
-Phase 5: Exception Handling and Debugging
+<details>
+<summary>Phase 5: Exception Handling and Debugging</summary>
 
 1. Exceptions
    - Built-in exceptions
@@ -172,9 +192,10 @@ Phase 5: Exception Handling and Debugging
    - Using print statements effectively
    - Debugging tools and IDE debuggers
    - Understanding traceback
+</details>
 
-
-Phase 6: Advanced Topics
+<details>
+<summary>Phase 6: Advanced Topics</summary>
 
 1. Iterators and Generators
    - Iterable objects
@@ -203,9 +224,10 @@ Phase 6: Advanced Topics
    - Understanding descriptors and how they work
    - Implementing `__get__`, `__set__`, `__delete__`
    - Practical applications
+</details>
 
-
-Phase 7: Concurrency and Parallelism
+<details>
+<summary>Phase 7: Concurrency and Parallelism</summary>
 
 1. Multithreading
    - Thread creation and management
@@ -226,9 +248,10 @@ Phase 7: Concurrency and Parallelism
 4. Concurrency Patterns
    - Producer-consumer pattern
    - Futures and promises
+</details>
 
-
-Phase 8: Networking and Web Programming
+<details>
+<summary>Phase 8: Networking and Web Programming</summary>
 
 1. Networking Basics
    - Sockets and socket programming
@@ -244,9 +267,10 @@ Phase 8: Networking and Web Programming
    - Understanding MVC architecture
    - Familiarity with frameworks like Flask or Django
    - Building RESTful APIs
+</details>
 
-
-Phase 9: Data Science and Machine Learning with Python
+<details>
+<summary>Phase 9: Data Science and Machine Learning with Python</summary>
 
 1. Scientific Computing Libraries
    - NumPy for numerical computations
@@ -261,9 +285,10 @@ Phase 9: Data Science and Machine Learning with Python
    - Data cleaning and preprocessing
    - Feature engineering
    - Model evaluation and validation
+</details>
 
-
-Phase 10: Testing and Quality Assurance
+<details>
+<summary>Phase 10: Testing and Quality Assurance</summary>
 
 1. Unit Testing
    - Writing test cases using `unittest`
@@ -282,8 +307,10 @@ Phase 10: Testing and Quality Assurance
    - Measuring code coverage
    - Static code analysis
    - Linting tools (e.g., Flake8, Pylint)
+</details>
 
-Phase 11: Packaging and Deployment
+<details>
+<summary>Phase 11: Packaging and Deployment</summary>
 
 1. Packaging Python Projects
    - Structuring projects
@@ -298,9 +325,10 @@ Phase 11: Packaging and Deployment
    - Packaging applications for distribution
    - Using Docker for containerization
    - Continuous deployment strategies
+</details>
 
-
-Phase 12: Security Practices
+<details>
+<summary>Phase 12: Security Practices</summary>
 
 1. Secure Coding
    - Input validation
@@ -316,9 +344,10 @@ Phase 12: Security Practices
    - Implementing user authentication
    - Managing user permissions
    - OAuth and JWT tokens
+</details>
 
-
-### **Phase 13: Performance Optimization**
+<details>
+<summary>Phase 13: Performance Optimization</summary>
 
 1. Profiling and Benchmarking
    - Identifying bottlenecks
@@ -333,9 +362,10 @@ Phase 12: Security Practices
    - PyPy for performance
    - Cython for compiling Python to C
    - Numba for JIT compilation
+</details>
 
-
-### **Phase 14: Interfacing with Other Languages**
+<details>
+<summary>Phase 14: Interfacing with Other Languages</summary>
 
 1. C Extensions
    - Writing Python extensions in C
@@ -347,9 +377,10 @@ Phase 12: Security Practices
 
 3. Interfacing with .NET
    - IronPython basics
+</details>
 
-
-### **Phase 15: Collaboration and Community Involvement**
+<details>
+<summary>Phase 15: Collaboration and Community Involvement</summary>
 
 1. Version Control Systems
    - Using Git for source control
@@ -364,9 +395,10 @@ Phase 12: Security Practices
    - Understanding open-source licensing
    - Participating in community projects
    - Following contribution guidelines
+</details>
 
-
-### **Phase 16: Staying Current and Continuous Learning**
+<details>
+<summary>Phase 16: Staying Current and Continuous Learning</summary>
 
 1. Keeping Up with Python Enhancements
    - Reading Python Enhancement Proposals (PEPs)
@@ -380,7 +412,7 @@ Phase 12: Security Practices
    - Type hinting and static type checking (using `mypy`)
    - Functional programming concepts
    - Exploring lesser-known standard library modules
-
+</details>
 
 ### **Phase 17: Specialized Domains**
 
