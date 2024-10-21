@@ -119,6 +119,7 @@ From beginner to automation, devops and wizadry.
 
 <details>
 <summary>Phase 3: Modules and Packages</summary>
+
 + <details>
     <summary>Modules</summary>
 
@@ -157,36 +158,56 @@ From beginner to automation, devops and wizadry.
 <details>
 <summary>Phase 4: File Handling and I/O Operations</summary>
 
-1. File Operations
-   - Opening and closing files
-   - Reading from and writing to files
-   - File modes (`r`, `w`, `a`, `b`, `t`)
-   - Context managers (`with` statement)
++ <details>
+    <summary>File Operations</summary>
 
-2. Working with Different File Formats
-   - Text files
-   - CSV files
-   - JSON files
-   - Binary files
+   - [ ] Opening and closing files
+   - [ ] Reading from and writing to files
+   - [ ] File modes (`r`, `w`, `a`, `b`, `t`)
+   - [ ] Context managers (`with` statement)
 
-3. Error Handling in File Operations
-   - Using `try`, `except`, `finally` blocks
-   - Handling specific exceptions (`IOError`, `FileNotFoundError`)
+   </details>
+
++ <details>
+    <summary>Working with Different File Formats</summary>
+
+   - [ ] Text files
+   - [ ] CSV files
+   - [ ] JSON files
+   - [ ] Binary files
+
+   </details>
+
++ <details>
+    <summary>Error Handling in File Operations</summary>
+
+   - [ ] Using `try`, `except`, `finally` blocks
+   - [ ] Handling specific exceptions (`IOError`, `FileNotFoundError`)
+
+   </details>
 
 </details>
 
 <details>
 <summary>Phase 5: Exception Handling and Debugging</summary>
 
-1. Exceptions
-   - Built-in exceptions
-   - Raising exceptions
-   - Custom exceptions
++ <details>
+    <summary>Exceptions</summary>
 
-2. Error Handling
-   - `try`, `except`, `else`, `finally` blocks
-   - Catching multiple exceptions
-   - Exception hierarchy
+   - [ ] Built-in exceptions
+   - [ ] Raising exceptions
+   - [ ] Custom exceptions
+
+   </details>
+
++ <details>
+    <summary>Error Handling</summary>
+
+   - [ ] `try`, `except`, `else`, `finally` blocks
+   - [ ] Catching multiple exceptions
+   - [ ] Exception hierarchy
+
+   </details>
 
 3. Debugging Techniques
    - Using print statements effectively
@@ -469,33 +490,41 @@ From beginner to automation, devops and wizadry.
 
 ## Devops
 
-### **Phase 1: Foundations of DevOps and Software Development**
+<details>
+<summary>Phase 1: Foundations of DevOps and Software Development</summary>
 
-**1. Understand the Basics of Software Development**
++ <details>
+    <summary>Understand the Basics of Software Development</summary>
 
-- **Programming Fundamentals**
-  - Grasp basic programming concepts (variables, data types, control structures).
-  - Learn a scripting language (Python, Bash).
+    - [x] Programming Fundamentals
+    - [x] Grasp basic programming concepts (variables, data types, control structures).
+    - [x] Learn a scripting language (Python, Bash).
 
-- **Version Control Systems**
-  - **Git Basics**
+    - [x] Version Control Systems
+    - [x] Git Basics
     - Initialize repositories, commit changes, branch management.
-    - Understand merging, rebasing, and resolving conflicts.
-  - **Git Workflows**
-    - GitFlow, feature branching, pull requests.
+    - [ ] Understand merging, rebasing, and resolving conflicts.
+    - [ ] Git Workflows
+    - [ ] GitFlow, feature branching, pull requests.
 
-**2. Learn Operating Systems and Networking**
+    <details>
 
-- **Linux Fundamentals**
-  - Command-line proficiency (file manipulation, process management).
-  - Understanding of file system hierarchy.
-  - User and permission management.
++ <details>
+    <summary>Learn Operating Systems and Networking</summary>
 
-- **Networking Basics**
-  - OSI and TCP/IP models.
-  - Common protocols (HTTP, HTTPS, SSH, FTP).
-  - IP addressing, DNS, and subnetting.
+    - [x] Linux Fundamentals
+    - [x] Command-line proficiency (file manipulation, process management).
+    - [x] Understanding of file system hierarchy.
+    - [ ] User and permission management.
 
+    - [x] Networking Basics
+    - [x] OSI and TCP/IP models.
+    - [ ] Common protocols (HTTP, HTTPS, SSH, FTP).
+    - [ ] IP addressing, DNS, and subnetting.
+
+    </details>
+
+</details>
 
 ### **Phase 2: Scripting and Automation**
 
@@ -796,70 +825,85 @@ From beginner to automation, devops and wizadry.
 - Nomad
   - Deploy and manage containers and non-containerized applications.
 
+<details>
+<summary>Phase 11: Soft Skills and Best Practices</summary>
 
-### **Phase 11: Soft Skills and Best Practices**
++ <details>
+    <summary>Collaboration and Communication</summary>
 
-1. Collaboration and Communication
+    - [ ] Agile and Scrum Methodologies
+    - [ ] Participate in sprints and stand-ups.
+    - [ ] Use tools like Jira, Trello.
+    - [ ] Documentation
+    - [ ] Maintain clear and up-to-date documentation.
+    - [ ] Use Markdown, Confluence, GitHub Wikis.
+    
+    </details>
 
-- Agile and Scrum Methodologies
-  - Participate in sprints and stand-ups.
-  - Use tools like Jira, Trello.
++ <details>
+    <summary>Problem-Solving and Troubleshooting</summary>
 
-- Documentation
-  - Maintain clear and up-to-date documentation.
-  - Use Markdown, Confluence, GitHub Wikis.
+    - [ ] Root Cause Analysis
+    - [ ] Systematic approach to identifying issues.
+    - [ ] Performance Tuning
+    - [ ] Optimize applications and infrastructure for better performance.
 
-2. Problem-Solving and Troubleshooting
+    </details>
 
-- Root Cause Analysis
-  - Systematic approach to identifying issues.
++ <details>
+    <summary>Continuous Learning</summary>
 
-- Performance Tuning
-  - Optimize applications and infrastructure for better performance.
+    - [ ] Stay Updated
+    - [ ] Follow blogs, podcasts, and webinars.
+    - [ ] Engage in communities like DevOps Days, Meetups.
+    - [ ] Certifications (Optional but Beneficial)
+    - [ ] AWS Certified DevOps Engineer
+    - [ ] Certified Kubernetes Administrator (CKA)
+    - [ ] Docker Certified Associate
 
-3. Continuous Learning
+    </details>
 
-- Stay Updated
-  - Follow blogs, podcasts, and webinars.
-  - Engage in communities like DevOps Days, Meetups.
+<details>
+<summary>Phase 12: Practical Experience and Projects</summary>
 
-- Certifications (Optional but Beneficial)
-  - AWS Certified DevOps Engineer
-  - Certified Kubernetes Administrator (CKA)
-  - Docker Certified Associate
++ <details>
+    <summary>Build a CI/CD Pipeline</summary>
 
+    - [ ] Integrate Code Repositories with CI Tools
+    - [ ] Automate builds, tests, and deployments.
 
-Phase 12: Practical Experience and Projects
+    </details>
 
-1. Build a CI/CD Pipeline
++ <details>
+    <summary>Deploy Applications with Docker and Kubernetes</summary>
 
-- Integrate Code Repositories with CI Tools
-  - Automate builds, tests, and deployments.
+    - [ ] Containerize an Application
+    - [ ] Create Docker images for a sample application.
+    - [ ] Deploy to a Kubernetes Cluster
+    - [ ] Use Kubernetes manifests or Helm charts.
 
-2. Deploy Applications with Docker and Kubernetes
+    </details>
 
-- Containerize an Application
-  - Create Docker images for a sample application.
++ <details>
+    <summary>Implement Infrastructure as Code</summary>
 
-- Deploy to a Kubernetes Cluster
-  - Use Kubernetes manifests or Helm charts.
+    - [ ] Use Terraform to Provision Resources
+    - [ ] Automate infrastructure setup on a cloud provider.
+    - [ ] Automate Configuration with Ansible
+    - [ ] Deploy and configure applications across servers.
 
-3. Implement Infrastructure as Code
+    </details>
 
-- Use Terraform to Provision Resources
-  - Automate infrastructure setup on a cloud provider.
++ <details>
+    <summary>Set Up Monitoring and Logging</summary>
 
-- Automate Configuration with Ansible
-  - Deploy and configure applications across servers.
+    - [ ] Implement Prometheus and Grafana
+    - [ ] Monitor system and application metrics.
+    - [ ] Configure Centralized Logging
+    - [ ] Aggregate logs using ELK or EFK stack.
 
-4. Set Up Monitoring and Logging
-
-- Implement Prometheus and Grafana
-  - Monitor system and application metrics.
-
-- Configure Centralized Logging
-  - Aggregate logs using ELK or EFK stack.
-
+    </details>
+</details>
 
 ### **Additional Areas to Explore**
 
@@ -896,4 +940,3 @@ Phase 12: Practical Experience and Projects
 - Soft Skills Matter
   - Communication and teamwork are crucial in DevOps culture.
   - Be open to feedback and collaborative problem-solving.
-  </details>
