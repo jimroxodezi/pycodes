@@ -269,44 +269,72 @@ From beginner to automation, devops and wizadry.
 <details>
 <summary>Phase 7: Concurrency and Parallelism</summary>
 
-1. Multithreading
-   - Thread creation and management
-   - Thread synchronization (locks, semaphores)
-   - Thread communication (queues)
++ <details>
 
-2. Multiprocessing
-   - Process creation and management
-   - Inter-process communication
-   - Shared memory
+    <summary>Multithreading</summary>
+   - [ ] Thread creation and management
+   - [ ] Thread synchronization (locks, semaphores)
+   - [ ] Thread communication (queues)
 
-3. Asynchronous Programming
-   - Event loops
-   - Coroutines
-   - `asyncio` library
-   - `async` and `await` keywords
+   </details>
 
-4. Concurrency Patterns
-   - Producer-consumer pattern
-   - Futures and promises
++ <details>
+    <summary>Multiprocessing</summary>
+
+   - [ ] Process creation and management
+   - [ ] Inter-process communication
+   - [ ] Shared memory
+
+   </details>
+
++ <details>
+    <summary>Asynchronous Programming</summary>
+
+   - [ ] Event loops
+   - [ ] Coroutines
+   - [ ] `asyncio` library
+   - [ ] `async` and `await` keywords
+
+   </details>
+
++ <details>
+    <summary>Concurrency Patterns</summary>
+
+   - [ ] Producer-consumer pattern
+   - [ ] Futures and promises
+
+   </details>
 </details>
 
 <details>
 <summary>Phase 8: Networking and Web Programming</summary>
 
-1. Networking Basics
-   - Sockets and socket programming
-   - Client-server architecture
-   - TCP/IP and UDP protocols
++ <details>
+    <summary>Networking Basics</summary>
 
-2. HTTP Programming
-   - Making HTTP requests
-   - Parsing HTTP responses
-   - Handling sessions and cookies
+   - [ ] Sockets and socket programming
+   - [ ] Client-server architecture
+   - [ ] TCP/IP and UDP protocols
 
-3. Web Frameworks
-   - Understanding MVC architecture
-   - Familiarity with frameworks like Flask or Django
-   - Building RESTful APIs
+   </details>
+
++ <details>
+    <summary>HTTP Programming</summary>
+
+   - [ ] Making HTTP requests
+   - [ ] Parsing HTTP responses
+   - [ ] Handling sessions and cookies
+
+   </details>
+
++ <details>
+    <summary>Web Frameworks</summary>
+
+   - [ ] Understanding MVC architecture
+   - [ ] Familiarity with frameworks like Flask or Django
+   - [ ] Building RESTful APIs
+
+   </details>
 </details>
 
 <details>
