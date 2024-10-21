@@ -1,8 +1,8 @@
 # pycodes - My python learning track
 From beginner to automation, devops and wizadry.
 
-<details>
-    <summary>Phase 1: Python Fundamentals</summary>
+<details open>
+<summary>Phase 1: Python Fundamentals</summary>
 
     <details>
     <summary>1. Basic Syntax and Semantics</summary>
@@ -13,7 +13,7 @@ From beginner to automation, devops and wizadry.
     </details>
 
     <details>
-    2. Variables and Data Types
+    <summary>2. Variables and Data Types</summary>
     - Numeric types: integers, floats, complex numbers
     - Boolean type
     - Strings and string operations
@@ -21,14 +21,14 @@ From beginner to automation, devops and wizadry.
     </details>
 
     <details>
-    3. Operators and Expressions
+    <summary>3. Operators and Expressions</summary>
     - Arithmetic operators
     - Comparison operators
     - Logical operators
     - Bitwise operators
     </details>
 
-    4. Control Flow Statements
+    <summary>4. Control Flow Statements</summary>
     - Conditional statements: `if`, `elif`, `else`
     - Loops: `for`, `while`
     - Loop control statements: `break`, `continue`, `pass`
@@ -39,16 +39,20 @@ From beginner to automation, devops and wizadry.
     - Sets
     - Dictionaries and dictionary comprehensions
 
-    6. Functions
+    <details>
+    <summary>6. Functions</summary>
     - Defining and calling functions
     - Parameters and arguments
     - Default and keyword arguments
     - Variable-length arguments (`*args`, `**kwargs`)
     - Lambda functions
     - Scope of variables
+    </details>
+
 </details>
 
-Phase 2: Object-Oriented Programming (OOP)
+<details>
+<summary>Phase 2: Object-Oriented Programming (OOP)</summary>
 
 1. Classes and Objects
    - Defining classes
@@ -824,3 +828,4 @@ Phase 12: Practical Experience and Projects
 - Soft Skills Matter
   - Communication and teamwork are crucial in DevOps culture.
   - Be open to feedback and collaborative problem-solving.
+  </details>
