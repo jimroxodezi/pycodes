@@ -1,7 +1,7 @@
 # pycodes - My python learning track
 From beginner to automation, devops and wizadry.
 
-<details open>
+<details>
 <summary>Phase 1: Python Fundamentals</summary>
 
 + <details>
@@ -11,7 +11,7 @@ From beginner to automation, devops and wizadry.
     <li>Indentation and code blocks</li>
     <li>Comments and documentation strings</li>
     </ul>   
-</details>
+    </details>
 
 + <details>
     <summary>2. Variables and Data Types</summary>
@@ -34,7 +34,7 @@ From beginner to automation, devops and wizadry.
     - Conditional statements: `if`, `elif`, `else`
     - Loops: `for`, `while`
     - Loop control statements: `break`, `continue`, `pass`
-</details>
+    </details>
 
 + <details>
     <summary>5. Data Structures</summary>
@@ -42,7 +42,7 @@ From beginner to automation, devops and wizadry.
     - Tuples
     - Sets
     - Dictionaries and dictionary comprehensions
-</details>
+    </details>
 
 + <details>
     <summary>6. Functions</summary>
@@ -52,7 +52,7 @@ From beginner to automation, devops and wizadry.
     - Variable-length arguments (`*args`, `**kwargs`)
     - Lambda functions
     - Scope of variables
-</details>
+    </details>
 
 </details>
 
