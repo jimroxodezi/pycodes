@@ -1,15 +1,16 @@
 # pycodes - My python learning track
 From beginner to automation, devops and wizadry.
 
-### **Phase 1: Python Fundamentals**
-
 <details>
-    <summary>1. Basic Syntax and Semantics</summary>
+    <summary>Phase 1: Python Fundamentals</summary>
 
-   - [x] Understanding the structure of Python code
-   - Indentation and code blocks
-   - Comments and documentation strings
-</details>
+    <details>
+        <summary>1. Basic Syntax and Semantics</summary>
+
+    - [x] Understanding the structure of Python code
+    - Indentation and code blocks
+    - Comments and documentation strings
+    </details>
 
 2. Variables and Data Types
    - Numeric types: integers, floats, complex numbers
@@ -41,6 +42,7 @@ From beginner to automation, devops and wizadry.
    - Variable-length arguments (`*args`, `**kwargs`)
    - Lambda functions
    - Scope of variables
+</details>
 
 Phase 2: Object-Oriented Programming (OOP)
 
