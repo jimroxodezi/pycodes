@@ -7,10 +7,10 @@ From beginner to automation, devops and wizadry.
 + <details>
     <summary>1. Basic Syntax and Semantics</summary>
 
-    - [ ] Understanding the structure of Python code
-    - [x] Indentation and code blocks
-    - [ ] Comments and documentation strings
-    
+        - [ ] Understanding the structure of Python code
+        - [x] Indentation and code blocks
+        - [ ] Comments and documentation strings
+
     </details>
 
 + <details>
