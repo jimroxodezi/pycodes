@@ -1,11 +1,12 @@
 # pycodes - My python learning track
 From beginner to automation, devops and wizadry.
 
-Phase 1: Python Fundamentals
+### **Phase 1: Python Fundamentals**
 
 <details>
-1. Basic Syntax and Semantics
-   - Understanding the structure of Python code
+    <summary>1. Basic Syntax and Semantics</summary>
+
+   - [x] Understanding the structure of Python code
    - Indentation and code blocks
    - Comments and documentation strings
 </details>
