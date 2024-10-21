@@ -702,14 +702,14 @@ From beginner to automation, devops and wizadry.
 
     </details>
 
-+ </details>
++ <details>
     <summary>Build Tools and Artifact Management</summary>
 
-    - Maven and Gradle for Java projects.
-    - npm and yarn for Node.js projects.
-    - Artifact Repositories
-    - Nexus Repository
-    - JFrog Artifactory
+    - [ ] Maven and Gradle for Java projects.
+    - [ ] npm and yarn for Node.js projects.
+    - [ ] Artifact Repositories
+    - [ ] Nexus Repository
+    - [ ] JFrog Artifactory
 
     </details>
 </details>
@@ -815,62 +815,71 @@ From beginner to automation, devops and wizadry.
 <details>
 <summary>Phase 6: Infrastructure as Code (IaC) and Configuration Management</summary>
 
++ <details>
+    <summary>Infrastructure Provisioning</summary>
 
-**1. Infrastructure Provisioning**
+    - [ ] Terraform
+    - [ ] Understand Terraform syntax (HCL).
+    - [ ] Manage infrastructure across providers (AWS, Azure, GCP).
+    - [ ] Write reusable modules.
 
-- **Terraform**
-  - Understand Terraform syntax (HCL).
-  - Manage infrastructure across providers (AWS, Azure, GCP).
-  - Write reusable modules.
+    - [ ] CloudFormation (AWS Specific)
+    - [ ] Define AWS resources using JSON/YAML templates.
 
-- **CloudFormation (AWS Specific)**
-  - Define AWS resources using JSON/YAML templates.
+    </details>
 
-**2. Configuration Management Tools**
++ <details>
+    <summary>Configuration Management Tools</summary>
+    
+    - [ ] Ansible (In-depth)
+    - [ ] Write playbooks and roles.
+    - [ ] Manage inventories.
+    - [ ] Use Ansible Vault for secrets.
 
-- **Ansible (In-depth)**
-  - Write playbooks and roles.
-  - Manage inventories.
-  - Use Ansible Vault for secrets.
+    - [ ] Chef and Puppet
+    - [ ] Understand declarative configuration.
+    - [ ] Use cookbooks (Chef) and manifests (Puppet).
 
-- **Chef and Puppet**
-  - Understand declarative configuration.
-  - Use cookbooks (Chef) and manifests (Puppet).
+    </details>
 
 </details>
 
 <details>
 <summary>Phase 7: Cloud Platforms and Services</summary>
 
-**1. Major Cloud Providers**
++ <details>
+    <summary>Major Cloud Providers</summary>
 
-- **Amazon Web Services (AWS)**
-  - Compute: EC2, Lambda.
-  - Storage: S3, EBS.
-  - Networking: VPC, Route 53.
-  - Databases: RDS, DynamoDB.
+    - [ ] **Amazon Web Services (AWS)**
+        - Compute: EC2, Lambda.
+        - Storage: S3, EBS.
+        - Networking: VPC, Route 53.
+        - Databases: RDS, DynamoDB.
 
-- **Microsoft Azure**
-  - Compute: Virtual Machines, App Services.
-  - Storage: Blob Storage.
-  - Networking: Virtual Network, Azure DNS.
+    - [ ] **Microsoft Azure**
+        - Compute: Virtual Machines, App Services.
+        - Storage: Blob Storage.
+        - Networking: Virtual Network, Azure DNS.
 
-- **Google Cloud Platform (GCP)**
-  - Compute: Compute Engine, Cloud Functions.
-  - Storage: Cloud Storage.
-  - Networking: VPC, Cloud DNS.
+    - [ ] **Google Cloud Platform (GCP)**
+        - Compute: Compute Engine, Cloud Functions.
+        - Storage: Cloud Storage.
+        - Networking: VPC, Cloud DNS.
 
-**2. Cloud Best Practices**
+    </details>
 
-- **Security**
-  - Identity and Access Management (IAM).
-  - Security Groups and Network ACLs.
-  - Encryption at rest and in transit.
++ <details>
+    <summary>Cloud Best Practices</summary>
 
-- **Cost Management**
-  - Monitoring usage.
-  - Right-sizing resources.
-  - Reserved instances and spot instances.
+    - [ ] **Security**
+        - Identity and Access Management (IAM).
+        - Security Groups and Network ACLs.
+        - Encryption at rest and in transit.
+
+    - [ ] **Cost Management**
+        - Monitoring usage.
+        - Right-sizing resources.
+        - Reserved instances and spot instances.
 
 </details>
 
@@ -878,107 +887,130 @@ From beginner to automation, devops and wizadry.
 <details>
 <summary>Phase 8: Monitoring, Logging, and Alerting</summary>
 
-**1. Monitoring Tools**
++ <details>
+    <summary>Monitoring Tools<summary>
 
-- **Prometheus**
-  - Install and configure Prometheus.
-  - Collect metrics using exporters.
+    - [ ] **Prometheus**
+        - Install and configure Prometheus.
+        - Collect metrics using exporters.
 
-- **Grafana**
-  - Visualize metrics.
-  - Set up dashboards and alerts.
+    - [ ] **Grafana**
+        - Visualize metrics.
+        - Set up dashboards and alerts.
+    </details>
 
-**2. Logging Solutions**
++ <details>
+    <summary>Logging Solutions</summary>
 
-- **ELK Stack (Elasticsearch, Logstash, Kibana)**
-  - Collect and analyze logs.
-  - Create visualizations and dashboards.
+    - [ ] **ELK Stack (Elasticsearch, Logstash, Kibana)**
+        - Collect and analyze logs.
+        - Create visualizations and dashboards.
 
-- **EFK Stack (Elasticsearch, Fluentd, Kibana)**
-  - Use Fluentd for log aggregation.
+    - [ ] **EFK Stack (Elasticsearch, Fluentd, Kibana)**
+        - Use Fluentd for log aggregation.
 
-- **Cloud-Native Logging**
-  - AWS CloudWatch Logs.
-  - GCP Stackdriver Logging.
-  - Azure Monitor.
+    - [ ] **Cloud-Native Logging**
+        - AWS CloudWatch Logs.
+        - GCP Stackdriver Logging.
+        - Azure Monitor.
+    </details>
 
-**3. Alerting and Incident Management**
++ <details> 
+    <summary>Alerting and Incident Management</summary>
 
-- **Alerting Tools**
-  - Configure alerts in Prometheus and Grafana.
-  - Use tools like **PagerDuty** or **Opsgenie**.
+    - [ ] **Alerting Tools**
+        - Configure alerts in Prometheus and Grafana.
+        - Use tools like **PagerDuty** or **Opsgenie**.
 
-- **Incident Response**
-  - Develop runbooks.
-  - Post-incident reviews and blameless retrospectives.
+    - [ ] **Incident Response**
+        - Develop runbooks.
+        - Post-incident reviews and blameless retrospectives.
+    </details>
 
 </details>
 
 <details>
 <summary>Phase 9: Security and Compliance</summary>
 
-**1. Security Best Practices**
++ <details>
+    <summary>Security Best Practices<summary>
 
-- **Network Security**
-  - Implement firewalls and security groups.
-  - Use VPNs and bastion hosts.
+    - [ ] **Network Security**
+        - Implement firewalls and security groups.
+        - Use VPNs and bastion hosts.
 
-- **Application Security**
-  - Secure coding practices.
-  - Regular security assessments and penetration testing.
+    - [ ] **Application Security**
+        - Secure coding practices.
+        - Regular security assessments and penetration testing.
 
-**2. Identity and Access Management**
+    </details>
 
-- **Role-Based Access Control (RBAC)**
-  - Implement least privilege principles.
-  - Manage user roles and permissions.
++ <details>
+    <summary>Identity and Access Management</summary>
 
-- **Secret Management**
-  - Store secrets securely using tools like **HashiCorp Vault**.
-  - Rotate credentials regularly.
+    - [ ] **Role-Based Access Control (RBAC)**
+        - Implement least privilege principles.
+        - Manage user roles and permissions.
 
-**3. Compliance and Auditing**
+    -  [ ] **Secret Management**
+        - Store secrets securely using tools like **HashiCorp Vault**.
+        - Rotate credentials regularly.
 
-- **Compliance Standards**
-  - Understand GDPR, HIPAA, PCI DSS as applicable.
+    </details>
 
-- **Auditing Tools**
-  - Track changes and access.
-  - Use CloudTrail (AWS), Audit Logs (GCP), Azure Activity Logs.
++ <details>
+    <summary>Compliance and Auditing</summary>
+
+    - [ ] **Compliance Standards**
+        - Understand GDPR, HIPAA, PCI DSS as applicable.
+
+    - [ ] **Auditing Tools**
+        - Track changes and access.
+        - Use CloudTrail (AWS), Audit Logs (GCP), Azure Activity Logs.
+
+    </details>
 </details>
 
 
 <details>
 <summary>Phase 10: Advanced Topics</summary>
 
-**1. Site Reliability Engineering (SRE)**
++ <details>
+    <summary>Site Reliability Engineering (SRE)</summary>
 
-- **Principles of SRE**
-  - Service Level Objectives (SLOs)
-  - Error Budgets
-  - Toil Reduction
+    - **Principles of SRE**
+        - Service Level Objectives (SLOs)
+        - Error Budgets
+        - Toil Reduction
 
-- **Chaos Engineering**
-  - Introduce controlled failures to test resilience.
-  - Tools: **Chaos Monkey**, **LitmusChaos**.
+    - **Chaos Engineering**
+        - Introduce controlled failures to test resilience.
+        - Tools: **Chaos Monkey**, **LitmusChaos**.
+    
+    </details>
 
-**2. Advanced Orchestration**
++ <details>
+    <summary>Advanced Orchestration<>
 
-- **Service Meshes**
-  - Understand **Istio**, **Linkerd**.
-  - Manage microservices communication.
+    - [ ] **Service Meshes**
+        - Understand **Istio**, **Linkerd**.
+        - Manage microservices communication.
 
-- **Serverless Architectures**
-  - Use AWS Lambda, Azure Functions, GCP Cloud Functions.
-  - Understand Function as a Service (FaaS) model.
+    - [ ] **Serverless Architectures**
+        - Use AWS Lambda, Azure Functions, GCP Cloud Functions.
+        - Understand Function as a Service (FaaS) model.
+    
+    </details>
 
++ <details>
 **3. Container Orchestration Beyond Kubernetes**
 
-- Docker Swarm
-  - Orchestrate containers in a swarm cluster.
+    - [ ] Docker Swarm
+    - [ ] Orchestrate containers in a swarm cluster.
+    - [ ] Nomad
+    - [ ] Deploy and manage containers and non-containerized applications.
 
-- Nomad
-  - Deploy and manage containers and non-containerized applications.
+    </details>
 </details>
 
 <details>
@@ -1018,6 +1050,7 @@ From beginner to automation, devops and wizadry.
     - [ ] Docker Certified Associate
 
     </details>
+</details>
 
 <details>
 <summary>Phase 12: Practical Experience and Projects</summary>
